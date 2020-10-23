@@ -2,6 +2,8 @@ const stringPalindrome = "abattyaba"
 
 //start here!!
 
+console.log("----> "+stringPalindrome);
+
 var value = stringPalindrome.length;
 
 var estadoFinal=true;
